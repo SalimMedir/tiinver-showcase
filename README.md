@@ -26,9 +26,9 @@ Développé entièrement par Salim Medir.
 ## 📸 Screenshots
 <p align="center">
   <img src="screenshots/screen1.png" width="250"/>
-  <img src="screenshots/screen2.png" width="250"/>
-  <img src="screenshots/screen3.png" width="250"/>
-   <img src="screenshots/screen4.png" width="250"/>
-   <img src="screenshots/screen5.png" width="250"/>
+  <img src="screenshots/screen2.jpg" width="250"/>
+  <img src="screenshots/screen3.jpg" width="250"/>
+   <img src="screenshots/screen4.jpg" width="250"/>
+   <img src="screenshots/screen5.jpg" width="250"/>
 </p>
 
